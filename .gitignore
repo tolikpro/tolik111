@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+# Created by https://www.gitignore.io/api/diff
+# Edit at https://www.gitignore.io/?templates=diff
+
+### Diff ###
+*.patch
+*.diff
+
+# End of https://www.gitignore.io/api/diff
